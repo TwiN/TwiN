@@ -8,6 +8,7 @@ Just another person trying to embrace his passion.
 
 
 ### 📝 Latest Blog Articles
+- [Writing Good Documentation](https://twinnation.org/articles/52/writing-good-documentation)
 - [Shit Programmers Say: “Just Scale Up”](https://twinnation.org/articles/51/shit-programmers-say-just-scale-up)
 - [Performance, Benchmarking and Allocations in Go](https://twinnation.org/articles/50/performance-benchmarking-and-allocations-in-go)
 - [What Programming Means to Me](https://twinnation.org/articles/45/what-programming-means-to-me)
