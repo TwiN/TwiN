@@ -1,6 +1,7 @@
 ### Hey, I'm Chris! 👋
 
 ![](https://komarev.com/ghpvc/?username=TwinProduction&label=views)
+[![Join Discord server](https://img.shields.io/discord/442432928614449155.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/44p4TRep)
 [![Follow TwinProduction](https://img.shields.io/github/followers/TwinProduction?label=Follow&style=social)](https://github.com/TwinProduction)
 
 
