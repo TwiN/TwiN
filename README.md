@@ -1,8 +1,8 @@
 ### Hey, I'm Chris! 👋
 
-![](https://komarev.com/ghpvc/?username=TwinProduction&label=views)
+![](https://komarev.com/ghpvc/?username=TwiN&label=views)
 [![Join Discord server](https://img.shields.io/discord/442432928614449155.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/TDfjeHmXDQ)
-[![Follow TwinProduction](https://img.shields.io/github/followers/TwinProduction?label=Follow&style=social)](https://github.com/TwinProduction)
+[![Follow TwiN](https://img.shields.io/github/followers/TwiN?label=Follow&style=social)](https://github.com/TwiN)
 
 
 Just another person trying to embrace their passion.
@@ -17,5 +17,5 @@ Just another person trying to embrace their passion.
 
 
 ### 📊 Statistics
-![TwinProduction's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwinProduction)
-![TwinProduction's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TwinProduction&show_icons=true&count_private=true&line_height=40)
+![TwiN's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwiN)
+![TwiN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TwiN&show_icons=true&count_private=true&line_height=40)
