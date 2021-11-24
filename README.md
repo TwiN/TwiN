@@ -1,7 +1,6 @@
 ### Hey, I'm Chris! 👋
 
 ![](https://komarev.com/ghpvc/?username=TwiN&label=views)
-[![Join Discord server](https://img.shields.io/discord/442432928614449155.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/TDfjeHmXDQ)
 [![Follow TwiN](https://img.shields.io/github/followers/TwiN?label=Follow&style=social)](https://github.com/TwiN)
 
 
