@@ -6,6 +6,8 @@
 
 Just another person trying to embrace their passion.
 
+Currently building my first SaaS during my free time: [gatus.io](https://gatus.io)
+
 
 ### 📝 Latest Blog Articles
 - [Bit Fields: Squishing Booleans Using Bitwise Operations](https://twin.sh/articles/54/bit-fields-squishing-booleans-using-bitwise-operations)
