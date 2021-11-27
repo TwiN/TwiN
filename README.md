@@ -8,7 +8,7 @@ Just another person trying to embrace their passion.
 
 
 ### 📝 Latest Blog Articles
-- [Bit Packing: Squishing Booleans Using Bitwise Operations](https://twin.sh/articles/54/bit-packing-squishing-booleans-using-bitwise-operations)
+- [Bit Fields: Squishing Booleans Using Bitwise Operations](https://twin.sh/articles/54/bit-fields-squishing-booleans-using-bitwise-operations)
 - [Writing Good Documentation](https://twin.sh/articles/52/writing-good-documentation)
 - [Shit Programmers Say: “Just Scale Up”](https://twin.sh/articles/51/shit-programmers-say-just-scale-up)
 - [Performance, Benchmarking and Allocations in Go](https://twin.sh/articles/50/performance-benchmarking-and-allocations-in-go)
