@@ -10,6 +10,8 @@ Currently building my first SaaS during my free time: [gatus.io](https://gatus.i
 
 
 ### 📝 Latest Blog Articles
+- [Securing Gatus with OIDC using Auth0](https://twin.sh/articles/56/securing-gatus-with-oidc-using-auth0)
+- [Mocking HTTP requests in Go](https://twin.sh/articles/55/mocking-http-requests-in-go)
 - [Bit Fields: Squishing Booleans Using Bitwise Operations](https://twin.sh/articles/54/bit-fields-squishing-booleans-using-bitwise-operations)
 - [Writing Good Documentation](https://twin.sh/articles/52/writing-good-documentation)
 - [Shit Programmers Say: “Just Scale Up”](https://twin.sh/articles/51/shit-programmers-say-just-scale-up)
