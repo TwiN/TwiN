@@ -1,4 +1,4 @@
-### Hey, I'm Chris! 👋
+### Hey, I'm TwiN! 👋
 
 ![](https://komarev.com/ghpvc/?username=TwiN&label=views)
 [![Follow TwiN](https://img.shields.io/github/followers/TwiN?label=Follow&style=social)](https://github.com/TwiN)
