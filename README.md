@@ -4,7 +4,7 @@
 [![Follow TwiN](https://img.shields.io/github/followers/TwiN?label=Follow&style=social)](https://github.com/TwiN)
 
 
-Just another person trying to embrace their passion.
+Just another person trying to ~~embrace their passion~~ prevent the vicissitudes of life from taking away their passion.
 
 Currently building my first SaaS during my free time: [gatus.io](https://gatus.io)
 
